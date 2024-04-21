@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Magaz {
     public static void main(String[] args) {
-        String[] firms = {"Firm1", "Firm2", "Firm3"};
+        String[] firms = {"Фирма1", "Фирма2", "Фирма3"};
         String[][] watches = {
                 {"Rolex", "Фирма1"},
                 {"Omega", "Фирма2"},
